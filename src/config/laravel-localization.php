@@ -75,5 +75,7 @@ return [
          */
         'filename' => 'll_messages.js',
     ],
-
+    'parser' => [
+        'includeFolderPathInStructure' => false,
+    ]
 ];
