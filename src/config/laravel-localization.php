@@ -77,5 +77,6 @@ return [
     ],
     'parser' => [
         'includeFolderPathInStructure' => false,
+        'format' => 'normal', // 'normal' | 'lang.js'
     ]
 ];
